@@ -3,7 +3,7 @@
     
     <NavBar/>
     <LandingPage/>
-    
+     
   </div>
 </template>
 <script>
